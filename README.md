@@ -5,7 +5,7 @@
 
 pip install uv
 
-uv syn
+uv sync
 
 python main.py
 
