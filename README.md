@@ -4,7 +4,9 @@
 -->
 
 pip install uv
-uv sync
+
+uv syn
+
 python main.py
 
 press ESC to quit the script.
